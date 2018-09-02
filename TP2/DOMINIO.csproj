@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Compartimientos.cs" />
+    <Compile Include="Compartimiento.cs" />
+    <Compile Include="Deposito.cs" />
+    <Compile Include="ICliente.cs" />
+    <Compile Include="Lados.cs" />
     <Compile Include="Pasillos.cs" />
     <Compile Include="Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
